@@ -8,7 +8,9 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
-
+### November 6, 2019 - day 3
+* Continued work on UmAhLike app; refinement of UI; JS logic in component and connecting parent/child components
+* Ran 2 miles; played game soccer (outside--brrr!)
 ### November 5, 2019 - day 2
 * Continued work on UmAhLike application; finalized custom stepper component and refined styling
 ### November 4, 2019 - day 1
