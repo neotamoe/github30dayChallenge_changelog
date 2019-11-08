@@ -8,6 +8,10 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 8, 2019 - day 5
+* UmAhLike app: Update um state; Read about different data/storage options for react native apps
+* More javascript algorithm exercises
+* Ran 6 miles.
 ### November 7, 2019 - day 4
 * UmAhLike app: Implemented simple, but functional input validation
 * Did some javascript algorithm practice exercises in prep for interview/code challenge
