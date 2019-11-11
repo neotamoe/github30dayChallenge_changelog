@@ -8,6 +8,8 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 10, 2019 - day 7
+* UmAhLike app: apparently didn't fix the memory leak quite yet; changed key used in AsyncStorage for use in UI; add conditional for empty display
 ### November 9, 2019 - day 6
 * UmAhLike app: useEffect hook to fetch data; fixed error/memory leak; preliminary/temporary display of fetched data
 ### November 8, 2019 - day 5
