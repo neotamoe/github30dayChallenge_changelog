@@ -8,6 +8,10 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 11, 2019 - day 8
+* UmAhLike app: swapped out useEffect and used React Navigation navigation events instead to get rid of memory leak/constant refresh;
+* Javascript algorith whiteboard practice
+* Ran 3 miles (ick--indoor treadmill running)
 ### November 10, 2019 - day 7
 * UmAhLike app: apparently didn't fix the memory leak quite yet; changed key used in AsyncStorage for use in UI; add conditional for empty display
 ### November 9, 2019 - day 6
@@ -15,7 +19,7 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 ### November 8, 2019 - day 5
 * UmAhLike app: Update um state; Read about different data/storage options for react native apps
 * More javascript algorithm exercises
-* Ran 6 miles.
+* Ran 6 miles
 ### November 7, 2019 - day 4
 * UmAhLike app: Implemented simple, but functional input validation
 * Did some javascript algorithm practice exercises in prep for interview/code challenge
