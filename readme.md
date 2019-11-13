@@ -8,9 +8,13 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 12, 2019 - day 9
+* UmAhLike app: add view to see past speaker info; sorted display of event list; exploratory switch implementation 
+* a few Javascript exercises
+* Ran 2 miles
 ### November 11, 2019 - day 8
 * UmAhLike app: swapped out useEffect and used React Navigation navigation events instead to get rid of memory leak/constant refresh;
-* Javascript algorith whiteboard practice
+* Javascript algorithm whiteboard practice
 * Ran 3 miles (ick--indoor treadmill running)
 ### November 10, 2019 - day 7
 * UmAhLike app: apparently didn't fix the memory leak quite yet; changed key used in AsyncStorage for use in UI; add conditional for empty display
