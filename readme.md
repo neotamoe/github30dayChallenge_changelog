@@ -8,6 +8,10 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 13, 2019 - day 10
+* UmAhLike app: added ability to add comments when saving speaker event
+* interview done!
+* soccer game (a version of running)
 ### November 12, 2019 - day 9
 * UmAhLike app: add view to see past speaker info; sorted display of event list; exploratory switch implementation 
 * a few Javascript exercises
