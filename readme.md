@@ -8,6 +8,8 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 15, 2019 - day 12
+* UmAhLike app: implement basic swipeable flat list (not functional yet in delete action); add conditional to render text vs textinput to edit categories
 ### November 14, 2019 - day 11
 * UmAhLike app: add comments to speaker data object; researched gestures and touches to try to delete list item via swiping
 * Streamed some world usability day (at UofMN) speaker sessions
