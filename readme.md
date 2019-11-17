@@ -8,6 +8,9 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 16, 2019 - day 13
+* UmAhLike app: refactor the way filler words will get changed to use modal instead of edit in place
+* Ran 4 miles
 ### November 15, 2019 - day 12
 * UmAhLike app: implement basic swipeable flat list (not functional yet in delete action); add conditional to render text vs textinput to edit categories
 ### November 14, 2019 - day 11
