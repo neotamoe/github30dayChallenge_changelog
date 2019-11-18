@@ -8,6 +8,9 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 17, 2019 - day 14
+* UmAhLike app: worked on layout of overlay/modal and dynamically generated empty slots based on # of existing filler words; read about possible ways and thought about how to update state
+* No exact # of miles, but logged over 10,000 steps (playing 2 hours of ultimate frisbee and soccer)
 ### November 16, 2019 - day 13
 * UmAhLike app: refactor the way filler words will get changed to use modal instead of edit in place
 * Ran 4 miles
