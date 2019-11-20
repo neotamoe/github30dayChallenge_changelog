@@ -8,6 +8,9 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 19, 2019 - day 16
+* UmAhLike app: adding authentication using AWS (basic unrefined implementation); added input for speaker topic;
+* Ran 2 miles
 ### November 18, 2019 - day 15
 * UmAhLike app: successfully saving new filler words; refactored how the filler words and respective counts are stored which then required updates to how components rendered and required refactoring
 ### November 17, 2019 - day 14
