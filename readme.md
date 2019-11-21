@@ -8,6 +8,9 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 20, 2019 - day 17
+* UmAhLike app: beginning to pull apart the authentication code part of the login and sign up screens into its own screen for reusability in auth flow.
+* Soccer game - no # of miles, but logged 4000+ steps
 ### November 19, 2019 - day 16
 * UmAhLike app: adding authentication using AWS (basic unrefined implementation); added input for speaker topic;
 * Ran 2 miles
