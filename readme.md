@@ -8,6 +8,8 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 22, 2019 - day 19
+* UmAhLike app: customized styles and text on AWS Amplify screens; cleaned up code (removed some comments and moved unused screens to a deprecated folder)
 ### November 21, 2019 - day 18
 * UmAhLike app: implemented aws-amplify-react-native which gives me signup and signin screens for free; now trying to custom style the screens; needs lots of code cleanup now
 ### November 20, 2019 - day 17
