@@ -8,6 +8,8 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 21, 2019 - day 18
+* UmAhLike app: implemented aws-amplify-react-native which gives me signup and signin screens for free; now trying to custom style the screens; needs lots of code cleanup now
 ### November 20, 2019 - day 17
 * UmAhLike app: beginning to pull apart the authentication code part of the login and sign up screens into its own screen for reusability in auth flow.
 * Soccer game - no # of miles, but logged 4000+ steps
