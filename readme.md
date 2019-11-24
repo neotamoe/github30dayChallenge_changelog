@@ -8,6 +8,9 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 23, 2019 - day 20
+* UmAhLike app: further style tweaks; changed buttons to match regardless of ios vs android platform; fixing dev warnings
+* Ran 2 miles 
 ### November 22, 2019 - day 19
 * UmAhLike app: customized styles and text on AWS Amplify screens; cleaned up code (removed some comments and moved unused screens to a deprecated folder)
 ### November 21, 2019 - day 18
