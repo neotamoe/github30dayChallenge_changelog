@@ -8,6 +8,9 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 24, 2019 - day 21
+* UmAhLike app: tiniest of style tweaks; reviewed app functionality so far
+* Ran 6 miles
 ### November 23, 2019 - day 20
 * UmAhLike app: further style tweaks; changed buttons to match regardless of ios vs android platform; fixing dev warnings
 * Ran 2 miles 
