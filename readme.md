@@ -8,6 +8,8 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 25, 2019 - day 22
+* UmAhLike app: tiny style tweaks; changed how/where user can delete a speaker event (not swipe delete); checking render on both platforms for uniformity 
 ### November 24, 2019 - day 21
 * UmAhLike app: tiniest of style tweaks; reviewed app functionality so far
 * Ran 6 miles
