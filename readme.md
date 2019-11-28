@@ -8,6 +8,9 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 27, 2019 - day 24
+* UmAhLike app: small style/layout changes; spent time looking for bugs;
+* Ran 3 miles
 ### November 26, 2019 - day 23
 * UmAhLike app: lock app to portrait mode by adjusting specific files for ios and android platforms; style/layout changes
 ### November 25, 2019 - day 22
