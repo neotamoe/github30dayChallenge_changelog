@@ -8,6 +8,8 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 29, 2019 - day 26
+* UmAhLike app: fixed RN Vector Icons issue with improper display
 ### November 28, 2019 - day 25
 * UmAhLike app: cleaned up console.logs;
 * Happy Thanksgiving!
