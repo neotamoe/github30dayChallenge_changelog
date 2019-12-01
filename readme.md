@@ -8,6 +8,9 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### November 30, 2019 - day 27
+* UmAhLike app: trying to fix display issues between platforms and different size screens; semi-successful
+* Ran 2.5 miles
 ### November 29, 2019 - day 26
 * UmAhLike app: fixed RN Vector Icons issue with improper display
 ### November 28, 2019 - day 25
