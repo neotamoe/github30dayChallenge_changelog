@@ -8,6 +8,10 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### December 1, 2019 - day 28
+* UmAhLike app: project file cleanup
+* Ran 3 miles
+* Hosted Second Thanksgiving
 ### November 30, 2019 - day 27
 * UmAhLike app: trying to fix display issues between platforms and different size screens; semi-successful
 * Ran 2.5 miles
