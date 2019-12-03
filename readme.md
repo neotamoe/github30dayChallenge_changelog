@@ -8,6 +8,8 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 * Running
 
 ## Changelog:
+### December 2, 2019 - day 29
+* UmAhLike app: moved date-time picker to overlay/modal 
 ### December 1, 2019 - day 28
 * UmAhLike app: project file cleanup
 * Ran 3 miles
